@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    color: brown;
+    border:5px solid tan;
+    border-radius: 4rem;
+    background-color: bisque;
+}
+body{
+    background-color: rgb(255, 219, 219);
+}
+.button{
+    color: white;
+    border-radius: 4rem;
+    background-color: brown;
+}
+.starter{
+    color: white;
+    border-radius: 4rem;
+    background-color: brown;
+}
+.anc{
+    color: brown;
+    text-decoration: none;
+    background-color: tan;
+    border-radius: 4rem;
+}
