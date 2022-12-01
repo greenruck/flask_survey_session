@@ -25,6 +25,7 @@ def question(qn):
         return redirect("/complete")
    
     if (len(responses)!= qn):
+        flash(f"Invalid question id: {qid}.")
         return redirect(f"/questions/{len(responses)}")
    
     else:
